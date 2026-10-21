@@ -1,0 +1,4 @@
+project: AuroraRetailDataPlatform
+environment: dev
+catalog: workspace
+schema: default

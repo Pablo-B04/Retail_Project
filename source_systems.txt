@@ -1,0 +1,10 @@
+AURORA RETAIL - SOURCE SYSTEMS
+1. CUSTOMERS
+Tipo: Customer Master Data
+Estado: Pendiente de integracion
+2. ORDERS
+Tipo: Transactional Data
+Estado: Pendiente de integracion
+3. PRODUCTS
+Tipo: Product Master Data
+Estado: Pendiente de integracion

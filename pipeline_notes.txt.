@@ -1,0 +1,16 @@
+AURORA RETAIL DATA PLATFORM
+PIPELINE STATUS:
+Development
+DOMAINS:
+- Customers
+- Orders
+- Products
+- Sales
+PLANNED TRANSFORMATIONS:
+Proyecto Aplicado 1 | Aurora Retail Data Platform | Documento maestro
+- customers_pipeline.py
+- orders_pipeline.py
+- products_pipeline.py
+- sales_pipeline.py
+NEXT PHASE:
+Ingest and transform real datasets.
