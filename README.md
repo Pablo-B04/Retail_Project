@@ -17,4 +17,4 @@ workspace
 ## Esquema
 default
 ## Responsable
-Nombre del estudiante
+Pablo Bolaños
